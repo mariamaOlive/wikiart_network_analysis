@@ -22,7 +22,6 @@ class ArtistItem(scrapy.Item):
     totalWorksTitle = scrapy.Field()
     
 class ArtistRelationshipItem(scrapy.Item):
-
     influenced_on = scrapy.Field()
     influenced_by = scrapy.Field()
     friends = scrapy.Field()
@@ -31,4 +30,18 @@ class ArtistRelationshipItem(scrapy.Item):
     school = scrapy.Field()
     artistUrl = scrapy.Field()
     type = scrapy.Field()
+
+
+class SchoolItem(scrapy.Item):
+    url = scrapy.Field()
+    title = scrapy.Field()
+
+
+class InstitutionItem(scrapy.Item):
+    url = scrapy.Field()
+    title = scrapy.Field()
+    city = scrapy.Field()
+    country = scrapy.Field()
+
+
 
