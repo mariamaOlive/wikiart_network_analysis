@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d14" for="edge" attr.name="type" attr.type="string"/>
+<key id="d13" for="node" attr.name="country" attr.type="string"/>
+<key id="d12" for="node" attr.name="city" attr.type="string"/>
+<key id="d11" for="node" attr.name="community" attr.type="long"/>
+<key id="d10" for="node" attr.name="pagerank" attr.type="double"/>
+<key id="d9" for="node" attr.name="eigenvector" attr.type="double"/>
+<key id="d8" for="node" attr.name="degree" attr.type="double"/>
+<key id="d7" for="node" attr.name="color" attr.type="string"/>
+<key id="d6" for="node" attr.name="type" attr.type="string"/>
+<key id="d5" for="node" attr.name="year" attr.type="string"/>
+<key id="d4" for="node" attr.name="totalWorksTitle" attr.type="long"/>
+<key id="d3" for="node" attr.name="title" attr.type="string"/>
+<key id="d2" for="node" attr.name="nation" attr.type="string"/>
+<key id="d1" for="node" attr.name="image" attr.type="string"/>
+<key id="d0" for="node" attr.name="id" attr.type="string"/>
+<graph edgedefault="directed"><node id="/en/henri-matisse">
+  <data key="d0">57726d83edc2cb3880b489d8</data>
+  <data key="d1">https://uploads2.wikiart.org/images/henri-matisse.jpg!PinterestLarge.jpg</data>
+  <data key="d2">French</data>
+  <data key="d3">Henri Matisse</data>
+  <data key="d4">1007</data>
+  <data key="d5">1869 - 1954</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.005008347245409015</data>
+  <data key="d9">1.1139332398583077e-05</data>
+  <data key="d10">0.0005771014777899463</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/chaim-soutine">
+  <data key="d0">57726d85edc2cb3880b48ea9</data>
+  <data key="d1">https://uploads3.wikiart.org/00133/images/chaim-soutine/36736-html-28b838b6.png!PinterestLarge.png</data>
+  <data key="d2">Jewish</data>
+  <data key="d3">Chaim Soutine</data>
+  <data key="d4">119</data>
+  <data key="d5">1893 - 1943</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.002337228714524207</data>
+  <data key="d9">3.6171878863900466e-06</data>
+  <data key="d10">0.001029856848432035</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/edvard-munch">
+  <data key="d0">57726d7bedc2cb3880b47a89</data>
+  <data key="d1">https://uploads4.wikiart.org/images/edvard-munch/self-portrait-i-1896.jpg!PinterestLarge.jpg</data>
+  <data key="d2">Norwegian</data>
+  <data key="d3">Edvard Munch</data>
+  <data key="d4">195</data>
+  <data key="d5">1863 - 1944</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.002671118530884808</data>
+  <data key="d9">8.408540226105827e-06</data>
+  <data key="d10">0.0004115499047374317</data>
+  <data key="d11">110</data>
+</node>
+<node id="Impressionism">
+  <data key="d6">movement</data>
+  <data key="d7">green</data>
+  <data key="d3">Impressionism</data>
+  <data key="d10">0.014015671022639314</data>
+  <data key="d11">303</data>
+</node>
+<node id="/en/balcomb-greene">
+  <data key="d0">57726df6edc2cb3880b54b93</data>
+  <data key="d1">https://uploads3.wikiart.org/images/balcomb-greene.jpg!PinterestLarge.jpg</data>
+  <data key="d2">American</data>
+  <data key="d3">Balcomb Greene</data>
+  <data key="d4">22</data>
+  <data key="d5">1904 - 1990</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.0</data>
+  <data key="d9">3.0858363118303e-31</data>
+  <data key="d10">0.00015745828308486018</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/man-ray">
+  <data key="d0">57726d83edc2cb3880b48878</data>
+  <data key="d1">https://uploads5.wikiart.org/images/man-ray.jpg!PinterestLarge.jpg</data>
+  <data key="d2">American</data>
+  <data key="d3">Man Ray</data>
+  <data key="d4">84</data>
+  <data key="d5">1890 - 1976</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.000667779632721202</data>
+  <data key="d9">6.766994664466313e-23</data>
+  <data key="d10">0.0002174127634912577</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/antoine-watteau">
+  <data key="d0">57726d85edc2cb3880b48ef1</data>
+  <data key="d1">https://uploads4.wikiart.org/images/antoine-watteau.jpg!PinterestLarge.jpg</data>
+  <data key="d2">French</data>
+  <data key="d3">Antoine Watteau</data>
+  <data key="d4">78</data>
+  <data key="d5">1684 - 1721</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.001335559265442404</data>
+  <data key="d9">0.0001406798602427545</data>
+  <data key="d10">0.0003283981517250949</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/artists-by-painting-school/les-fauves">
+  <data key="d3">Les Fauves</data>
+  <data key="d6">school</data>
+  <data key="d7">red</data>
+  <data key="d10">0.0010361881565752915</data>
+  <data key="d11">455</data>
+</node>
+<node id="/en/marc-chagall">
+  <data key="d0">57726d81edc2cb3880b484e5</data>
+  <data key="d1">https://uploads1.wikiart.org/00266/images/marc-chagall/shagal-choumoff.jpg!PinterestLarge.jpg</data>
+  <data key="d2">French</data>
+  <data key="d3">Marc Chagall</data>
+  <data key="d4">1022</data>
+  <data key="d5">1887 - 1985</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.001669449081803005</data>
+  <data key="d9">4.7918646525922996e-06</data>
+  <data key="d10">0.0003566857561264348</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/max-pechstein">
+  <data key="d0">57726dacedc2cb3880b4d65e</data>
+  <data key="d1">https://uploads5.wikiart.org/images/max-pechstein(1).jpg!PinterestLarge.jpg</data>
+  <data key="d2">German</data>
+  <data key="d3">Max Pechstein</data>
+  <data key="d4">77</data>
+  <data key="d5">1881 - 1955</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.000333889816360601</data>
+  <data key="d9">1.9749352395713916e-29</data>
+  <data key="d10">0.00017424011638162728</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/matthew-smith">
+  <data key="d0">5c99d61bedc2c99c5ce3bc73</data>
+  <data key="d1">https://uploads1.wikiart.org/00229/images/matthew-smith/self-portrait-1909.jpg!PinterestLarge.jpg</data>
+  <data key="d2">British</data>
+  <data key="d3">Matthew Smith</data>
+  <data key="d4">60</data>
+  <data key="d5">1879 - 1959</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.000667779632721202</data>
+  <data key="d9">6.420770588260471e-25</data>
+  <data key="d10">0.00021596049599637867</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/guan-zilan">
+  <data key="d0">588316aeedc2c97a04881e86</data>
+  <data key="d1">https://uploads3.wikiart.org/00116/images/guan-zilan/5883210fedc2c97a04a5ec56.jpg!PinterestLarge.jpg</data>
+  <data key="d2">Chinese</data>
+  <data key="d3">Guan Zilan</data>
+  <data key="d4">12</data>
+  <data key="d5">1903 - 1986</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.0</data>
+  <data key="d9">3.0858363118303e-31</data>
+  <data key="d10">0.00015745828308486018</data>
+  <data key="d11">166</data>
+</node>
+<node id="/en/lee-krasner">
+  <data key="d0">57726d9dedc2cb3880b4bd0f</data>
+  <data key="d1">https://uploads5.wikiart.org/temp/a83556ad-7f8f-4097-8158-2fc4e2c6f37d.jpg!PinterestLarge.jpg</data>
+  <data key="d2">American</data>
+  <data key="d3">Lee Krasner</data>
+  <data key="d4">27</data>
+  <data key="d5">1908 - 1984</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.000333889816360601</data>
+  <data key="d9">5.594318475776106e-22</data>
+  <data key="d10">0.0001769704247194018</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/fernand-leger">
+  <data key="d0">57726d80edc2cb3880b48241</data>
+  <data key="d1">https://uploads5.wikiart.org/images/fernand-leger(1).jpg!PinterestLarge.jpg</data>
+  <data key="d2">French</data>
+  <data key="d3">Fernand Leger</data>
+  <data key="d4">446</data>
+  <data key="d5">1881 - 1955</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.001669449081803005</data>
+  <data key="d9">5.600102817311744e-22</data>
+  <data key="d10">0.00033113053417491633</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/carlos-nadal">
+  <data key="d0">59309d14edc2c979d4e9ab7b</data>
+  <data key="d1">https://uploads5.wikiart.org/00134/images//carlos-nadal-biography-01.jpg!PinterestLarge.jpg</data>
+  <data key="d2">Spanish</data>
+  <data key="d3">Carlos Nadal</data>
+  <data key="d4">10</data>
+  <data key="d5">1917 - 1998</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.0</data>
+  <data key="d9">3.0858363118303e-31</data>
+  <data key="d10">0.00015745828308486018</data>
+  <data key="d11">161</data>
+</node>
+<node id="/en/artists-by-art-institution/acad-mie-julian">
+  <data key="d12">Paris</data>
+  <data key="d13">France</data>
+  <data key="d3">Académie Julian</data>
+  <data key="d6">institution</data>
+  <data key="d7">gray</data>
+  <data key="d10">0.0020678605611757334</data>
+  <data key="d11">392</data>
+</node>
+<node id="/en/alfred-sisley">
+  <data key="d0">57726d88edc2cb3880b49521</data>
+  <data key="d1">https://uploads2.wikiart.org/images/alfred-sisley.jpg!PinterestLarge.jpg</data>
+  <data key="d2">French</data>
+  <data key="d3">Alfred Sisley</data>
+  <data key="d4">471</data>
+  <data key="d5">1839 - 1899</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.002003338898163606</data>
+  <data key="d9">3.207650854884394e-05</data>
+  <data key="d10">0.00037045150970503897</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/beauford-delaney">
+  <data key="d0">5fb4bb7eedc2cbd4888a2aa3</data>
+  <data key="d1">https://uploads3.wikiart.org/00315/images//08iht-rartdelaney-2-jumbo.jpg!PinterestLarge.jpg</data>
+  <data key="d2">American</data>
+  <data key="d3">Beauford Delaney</data>
+  <data key="d4">55</data>
+  <data key="d5">1901 - 1979</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.0</data>
+  <data key="d9">3.0858363118303e-31</data>
+  <data key="d10">0.00015745828308486018</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/jean-auguste-dominique-ingres">
+  <data key="d0">57726d7fedc2cb3880b48098</data>
+  <data key="d1">https://uploads1.wikiart.org/00381/images/jean-auguste-dominique-ingres/800px-jean-auguste-dominique-ingres-autoportrait-vingt-quatre-ans-google-art-project-1.jpg!PinterestLarge.jpg</data>
+  <data key="d2">French</data>
+  <data key="d3">Jean Auguste Dominique Ingres</data>
+  <data key="d4">306</data>
+  <data key="d5">1780 - 1867</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.002671118530884808</data>
+  <data key="d9">8.814453337683729e-05</data>
+  <data key="d10">0.00043244381596794736</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/pablo-picasso">
+  <data key="d0">57726d84edc2cb3880b48c4d</data>
+  <data key="d1">https://uploads1.wikiart.org/00115/images/pablo-picasso/iuyqtex0.jpeg!PinterestLarge.jpeg</data>
+  <data key="d2">Spanish</data>
+  <data key="d3">Pablo Picasso</data>
+  <data key="d4">1170</data>
+  <data key="d5">1881 - 1973</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.007011686143572621</data>
+  <data key="d9">6.347809287832606e-06</data>
+  <data key="d10">0.0007155675495307941</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/mikhail-larionov">
+  <data key="d0">58cf81b1edc2c97b40f9cd6f</data>
+  <data key="d1">https://uploads7.wikiart.org/00124/images//mikhail-fyodorovich-larionov.jpg!PinterestLarge.jpg</data>
+  <data key="d2">Russian</data>
+  <data key="d3">Mikhail Larionov</data>
+  <data key="d4">60</data>
+  <data key="d5">1881 - 1964</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.000333889816360601</data>
+  <data key="d9">1.9749352395713916e-29</data>
+  <data key="d10">0.0002245856162719286</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/richard-diebenkorn">
+  <data key="d0">57726d90edc2cb3880b4a512</data>
+  <data key="d1">https://uploads5.wikiart.org/temp/7ae1fcf6-af3a-48c1-9906-2173860f26dc.jpg!PinterestLarge.jpg</data>
+  <data key="d2">American</data>
+  <data key="d3">Richard Diebenkorn</data>
+  <data key="d4">92</data>
+  <data key="d5">1922 - 1993</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.0</data>
+  <data key="d9">3.0858363118303e-31</data>
+  <data key="d10">0.00015745828308486018</data>
+  <data key="d11">110</data>
+</node>
+<node id="Post-Impressionism">
+  <data key="d6">movement</data>
+  <data key="d7">green</data>
+  <data key="d3">Post-Impressionism</data>
+  <data key="d10">0.008000879450298206</data>
+  <data key="d11">305</data>
+</node>
+<node id="/en/pierre-auguste-renoir">
+  <data key="d0">57726d84edc2cb3880b48b25</data>
+  <data key="d1">https://uploads1.wikiart.org/images/pierre-auguste-renoir.jpg!PinterestLarge.jpg</data>
+  <data key="d2">French</data>
+  <data key="d3">Pierre-Auguste Renoir</data>
+  <data key="d4">1412</data>
+  <data key="d5">1841 - 1919</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.002337228714524207</data>
+  <data key="d9">3.15713806871097e-05</data>
+  <data key="d10">0.00042256689076469115</data>
+  <data key="d11">110</data>
+</node>
+<node id="/en/artists-by-painting-school/cole-de-paris">
+  <data key="d3">École de Paris</data>
+  <data key="d6">school</data>
+  <data key="d7">red</data>
+  <data key="d10">0.0038392011141685886</data>
+  <data key="d11">442</data>
+</node>
+<node id="/en/karel-appel">
+  <data key="d0">57726da6edc2cb3880b4ccae</data>
+  <data key="d1">https://uploads5.wikiart.org/temp/698245be-33c4-4302-85c0-89338e73144b.jpg!PinterestLarge.jpg</data>
+  <data key="d2">Dutch</data>
+  <data key="d3">Karel Appel</data>
+  <data key="d4">42</data>
+  <data key="d5">1921 - 2006</data>
+  <data key="d6">artist</data>
+  <data key="d7">blue</data>
+  <data key="d8">0.0</data>
+  <data key="d9">3.0858363118303e-31</data>
+  <data key="d10">0.00015745828308486018</data>
+  <data key="d11">110</data>
+</node>
+<edge source="/en/henri-matisse" target="/en/alfred-sisley">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/henri-matisse" target="/en/pierre-auguste-renoir">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/henri-matisse" target="/en/edvard-munch">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/henri-matisse" target="/en/antoine-watteau">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/henri-matisse" target="/en/jean-auguste-dominique-ingres">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/henri-matisse" target="Impressionism">
+  <data key="d14">part_of_mov</data>
+</edge>
+<edge source="/en/henri-matisse" target="Post-Impressionism">
+  <data key="d14">part_of_mov</data>
+</edge>
+<edge source="/en/henri-matisse" target="/en/artists-by-painting-school/cole-de-paris">
+  <data key="d14">part_of_school</data>
+</edge>
+<edge source="/en/henri-matisse" target="/en/artists-by-painting-school/les-fauves">
+  <data key="d14">part_of_school</data>
+</edge>
+<edge source="/en/henri-matisse" target="/en/artists-by-art-institution/acad-mie-julian">
+  <data key="d14">studied_at</data>
+</edge>
+<edge source="/en/chaim-soutine" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/chaim-soutine" target="/en/artists-by-painting-school/cole-de-paris">
+  <data key="d14">part_of_school</data>
+</edge>
+<edge source="/en/balcomb-greene" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/balcomb-greene" target="/en/pablo-picasso">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/man-ray" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/man-ray" target="/en/artists-by-painting-school/cole-de-paris">
+  <data key="d14">part_of_school</data>
+</edge>
+<edge source="/en/marc-chagall" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/marc-chagall" target="/en/pablo-picasso">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/marc-chagall" target="/en/chaim-soutine">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/marc-chagall" target="/en/artists-by-painting-school/cole-de-paris">
+  <data key="d14">part_of_school</data>
+</edge>
+<edge source="/en/max-pechstein" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/max-pechstein" target="/en/artists-by-painting-school/les-fauves">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/matthew-smith" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/matthew-smith" target="/en/artists-by-painting-school/les-fauves">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/matthew-smith" target="Post-Impressionism">
+  <data key="d14">part_of_mov</data>
+</edge>
+<edge source="/en/guan-zilan" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/guan-zilan" target="/en/artists-by-painting-school/les-fauves">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/guan-zilan" target="Post-Impressionism">
+  <data key="d14">part_of_mov</data>
+</edge>
+<edge source="/en/lee-krasner" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/lee-krasner" target="/en/pablo-picasso">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/fernand-leger" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/fernand-leger" target="/en/artists-by-art-institution/acad-mie-julian">
+  <data key="d14">studied_at</data>
+</edge>
+<edge source="/en/carlos-nadal" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/carlos-nadal" target="Post-Impressionism">
+  <data key="d14">part_of_mov</data>
+</edge>
+<edge source="/en/alfred-sisley" target="Impressionism">
+  <data key="d14">part_of_mov</data>
+</edge>
+<edge source="/en/beauford-delaney" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/beauford-delaney" target="/en/pablo-picasso">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pablo-picasso" target="/en/pierre-auguste-renoir">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pablo-picasso" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pablo-picasso" target="/en/marc-chagall">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pablo-picasso" target="/en/antoine-watteau">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pablo-picasso" target="/en/jean-auguste-dominique-ingres">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pablo-picasso" target="Post-Impressionism">
+  <data key="d14">part_of_mov</data>
+</edge>
+<edge source="/en/pablo-picasso" target="/en/artists-by-painting-school/cole-de-paris">
+  <data key="d14">part_of_school</data>
+</edge>
+<edge source="/en/mikhail-larionov" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/mikhail-larionov" target="/en/artists-by-painting-school/les-fauves">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/richard-diebenkorn" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/richard-diebenkorn" target="/en/chaim-soutine">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pierre-auguste-renoir" target="/en/jean-auguste-dominique-ingres">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pierre-auguste-renoir" target="/en/antoine-watteau">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/pierre-auguste-renoir" target="Impressionism">
+  <data key="d14">part_of_mov</data>
+</edge>
+<edge source="/en/karel-appel" target="/en/henri-matisse">
+  <data key="d14">influeced_by</data>
+</edge>
+<edge source="/en/karel-appel" target="/en/pablo-picasso">
+  <data key="d14">influeced_by</data>
+</edge>
+</graph></graphml>
