@@ -1,4 +1,4 @@
-# Painter's Network Analysis
+# Painters' Network Analysis
 </br>
 Author: Mariama Oliveira
 </br>
